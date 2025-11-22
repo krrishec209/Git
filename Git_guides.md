@@ -32,3 +32,69 @@ https://lnkd.in/e2vaGUds
 https://lnkd.in/eD8hidXa
 
 ➡ Join my newsletter, sign up at www.joinhorizon.ai 💫 today and get the latest AI news, tools, tutorials and guides on using popular AI tools delivered right to your inbox!
+
+
+*************************
+
+
+ 𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐆𝐢𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬
+𝐀 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐰𝐢𝐭𝐡 𝐆𝐢𝐭
+
+⩥ 1️⃣ Repository Setup and Configuration
+→ git init – Start a new Git repository
+→ git clone [url] – Clone a repository
+→ git config --global user. name "Your Name" – Set global username
+→ git config --global user. email "you@example. com" – Set global email
+
+⩥ 2️⃣ Staging and Committing
+→ git add [file] – Stage file changes
+→ git commit -m "message" – Commit with a message
+→ git status – Show current status
+→ git log – View commit history
+→ git commit --amend – Edit last commit
+
+⩥ 3️⃣ Branching and Merging
+→ git branch – List/create/delete branches
+→ git checkout [branch] – Switch to another branch
+→ git merge [branch] – Merge into current branch
+→ git rebase [branch] – Reapply commits on top of another branch
+
+⩥ 4️⃣ Remote Repositories
+→ git remote add [name] [url] – Add a remote
+→ git fetch – Fetch changes without merging
+→ git pull – Fetch and merge
+→ git push – Push local changes
+
+⩥ 5️⃣ Differences and Changes
+→ git diff – Show unstaged changes
+→ git diff [branch1] [branch2] – Compare branches
+→ git reset [file] – Unstage a file
+→ git reset --hard [commit] – Reset entire directory
+
+⩥ 6️⃣ Advanced Operations
+→ git cherry-pick [commit] – Apply changes from one commit
+→ git bisect – Identify the commit that introduced a bug
+→ git reflog – Log of all reference updates
+→ git blame [file] – Show who changed each line
+
+⩥ 7️⃣ Stashing and Tagging
+→ git stash – Temporarily save changes
+→ git stash apply – Reapply stashed changes
+→ git tag [tagname] – Tag a commit
+→ git tag -d [tagname] – Delete a tag
+
+⩥ 8️⃣ Collaboration and Review
+→ git pull request – Start a pull request (via platform)
+→ git submodule add [url] – Add a submodule
+→ git submodule update – Update submodules
+→ git show [commit] – Display commit changes
+
+⩥ 9️⃣ Cleanup and Maintenance
+→ git clean -f – Remove untracked files
+→ git gc – Run garbage collection
+→ git fsck – Validate repository integrity
+
+Follow Sandeep Bonagiri for more insights
+
+<img width="1050" height="1400" alt="image" src="https://github.com/user-attachments/assets/f5c1ac9f-f00f-4516-87f9-1c46753051da" />
+
